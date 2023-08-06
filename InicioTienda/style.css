@@ -1,0 +1,28 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url("joystick.jpg");
+    background-repeat: no-repeat;
+background-attachment: fixed;  
+background-size: cover;
+
+  }
+
+h1,footer{
+    color:white;
+}
+
+#texto-central{
+   
+    font-weight: bold;
+    box-shadow: 2vw 2vw 172vw ;
+    letter-spacing: 2.5px;
+    margin: 11% ;
+}
+#text{
+    font-size: 1em;
+    letter-spacing: 5px;
+    margin: 1vw;
+border: 1px solid;
+padding: 0.2%;
+}
